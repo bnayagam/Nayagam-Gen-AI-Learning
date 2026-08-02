@@ -1,0 +1,9 @@
+{
+          "name": "Patient A",
+          "age": 45,
+          "glucose_readings": [
+                    90,
+                    110,
+                    145
+          ]
+}
